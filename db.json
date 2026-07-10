@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "payal",
+      "email": "payal.com",
+      "password": "123",
+      "role": "admin",
+      "id": "pObjZJaVzIs"
+    },
+    {
+      "name": "adi",
+      "email": "adi.com",
+      "password": "111",
+      "role": "hr",
+      "id": "quaQfLfZ6-A"
+    }
+  ],
+  "employees": [
+    {
+      "name": "payal",
+      "dept": "CS",
+      "salary": "40000",
+      "email": "payal.com",
+      "id": "HwP_49NdCrU"
+    },
+    {
+      "name": "Sayali",
+      "dept": "diploma",
+      "salary": "40000",
+      "email": "sayali@.com",
+      "id": "coVWmr0AuvQ"
+    },
+    {
+      "name": "22",
+      "dept": "22",
+      "salary": "22",
+      "email": "22.com",
+      "id": "0V4N5wc3lDk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

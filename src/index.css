@@ -1,0 +1,63 @@
+body{
+   background-color: rgb(223, 201, 168);
+}
+
+
+
+/* Task :
+
+1) use .env
+
+2) use axios.create
+
+3) create db.json with 2 objects
+   - users
+   - employees
+
+4) users
+   - id
+   - name
+   - email
+   - password
+   - role (admin / hr)
+
+5) Registration Form
+   - name
+   - email
+   - password
+   - role (dropdown)
+
+6) Login Form
+   - email
+   - password
+
+7) if role === "admin"
+      AdminDashboard.jsx
+
+   else
+      HRDashboard.jsx
+
+8) employees
+   - empId
+   - empName
+   - department
+   - salary
+   - email
+
+9) EmployeeForm
+   - empName
+   - department
+   - salary
+   - email
+
+10) useEffect
+    - fetch all employees
+
+11) if role is admin
+    - add employee
+    - update employee
+    - delete employee
+
+12) if role is hr
+    - only add employee
+    - show employee list */
